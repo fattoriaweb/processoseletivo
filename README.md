@@ -19,6 +19,6 @@ Criar um sistema com CRUD de produtos
 
  - Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)
 
- - Não é necessário utilizar banco de dados.
+ - Utilizar um framework mvc no backend (spring mvc, jsf ).
 
- - (DIFERENCIAL) Utilizar banco de dados relacional e Hibernate no projeto.
+ - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
