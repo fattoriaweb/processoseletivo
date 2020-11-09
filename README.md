@@ -17,8 +17,8 @@ Criar um sistema com CRUD de produtos
 
  - Deve conter validações tanto no frontend quanto no backend
 
- - Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)
-
  - Utilizar um framework mvc no backend (spring mvc, jsf ).
 
  - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
+ 
+ - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery ou bibliotecas ou frameworks (Angular, React...)
