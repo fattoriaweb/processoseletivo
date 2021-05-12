@@ -15,10 +15,10 @@ Criar um sistema com CRUD de produtos
 # Requisitos técnicos
  - O projeto deve utilizar Maven e Java 8. Pode utilizar este projeto como base.
 
- - Deve conter validações tanto no frontend quanto no backend
+ - Deve conter validações do formulário principalmente no backend.
 
- - Utilizar um framework mvc no backend (spring mvc, jsf ).
+ - Utilizar um framework mvc no backend (spring mvc, spring boot, ou jsf, etc ).
 
  - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
  
- - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery ou bibliotecas ou frameworks (Angular, React...)
+ - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery OU frameworks (Angular, React...)
