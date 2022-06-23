@@ -17,8 +17,7 @@ Criar um sistema com CRUD de produtos
 
  - Deve conter validações do formulário principalmente no backend.
 
- - Utilizar um framework mvc no backend (spring mvc, spring boot, ou jsf, etc ).
+ - Utilizar um framework mvc no backend (spring mvc ou spring boot).
 
  - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
  
- - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery OU frameworks (Angular, React...)
